@@ -18,10 +18,10 @@ A passionate cyber security and penetration testing enthusisast, researching and
 
 `user@github:~# ls -la`
 - RedTeam Operations
-- VAPT
-- Newtworking
-- Database Mgmt
+- Networking
+- Database Management
 - Scripting
+- VAPT
 
 
 `user@github:/languages-&-tools# ls`
