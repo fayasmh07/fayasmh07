@@ -27,7 +27,7 @@ A passionate cyber security and penetration testing enthusisast, researching and
 
 `user@github:~# ls -la`
 - RedTeam Operations
-- Networking
+- Networking & Security
 - Database Management
 - Scripting
 - VAPT
