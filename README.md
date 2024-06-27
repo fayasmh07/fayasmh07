@@ -57,7 +57,7 @@ A passionate cyber security and penetration testing enthusisast, researching and
 &nbsp;
 
 `user@github:/projects# ls -a`
-| Skill                                         | Associated Project         |
+| Skills                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Assessment                      | <a href="https://github.com/fayasmh07/Vulnerability-Assessments" > Vulnerability Assessments </a> |
 | Implementing Internet Accessible Homer Server | <a href="https://github.com/fayasmh07/Project-SIGMA" > Project SIGMA </a> |
