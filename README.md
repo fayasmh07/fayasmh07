@@ -47,7 +47,7 @@ A passionate cyber security and penetration testing enthusisast, researching and
 
 <!-- known operating systems & environnments -->
 
-[![Known Programming Languages](https://skillicons.dev/icons?i=kali,ubuntu,debian,windows,mint,raspberrypiarch,)](https://skillicons.dev)
+[![Known Programming Languages](https://skillicons.dev/icons?i=kali,ubuntu,debian,windows,mint,raspberrypi,arch,)](https://skillicons.dev)
 
 &nbsp;
 
