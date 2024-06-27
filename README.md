@@ -6,9 +6,11 @@
 
 <h1>
     <p align="center">
-        Fayas Muhammed Hashim
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=700&size=35&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=500&height=60&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Fayas+Muhammed+Hashim" alt="Typing SVG" />
+      </a>
     </p>
 </h1>
+
 
 <p align="center">
   <a href="https://tryhackme.com/p/metahustler99" target="_blank" rel="noreferrer">
