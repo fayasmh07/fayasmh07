@@ -78,6 +78,19 @@ A passionate cyber security and penetration testing enthusisast, researching and
 `user@github:/profile-status# display status`
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fayasmh07&" alt="fayasmh07" /></p>
 
+&nbsp;
+
+`user@github:/projects# ls -a`
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Vulnerability Assessment using OWASP Zaproxy  |                            |
+|                                               |                            |
+|                                               |                            |
+|                                               |                            |
+|                                               |                            |
+|                                               |                            |
+
+
 `user@github:/badges# ls -la`
 <p align="left">
   <a href="https://www.credly.com/badges/7000ce34-b108-4508-b74d-9ddf84f06c1e/public_url" target="_blank" rel="noreferrer">
