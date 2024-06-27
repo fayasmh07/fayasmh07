@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/metahustler99" target="_blank" rel="noreferrer">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/metahustler99.png" alt="TryHackMe">  
+     <img src="https://tryhackme-badges.s3.amazonaws.com/metahustler99.png" alt="TryHackMe">
   </a>
 </p>
 
