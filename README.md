@@ -82,14 +82,43 @@ A passionate cyber security and penetration testing enthusisast, researching and
 `user@github:/tryhacme-badges# ls -la`
 <p align="left">
   <a>
-    <img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="70" height="70" style="margin-right: 0px;"/>
+    <img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="70" height="70" title="Intro to Offensive Security";"/>
   </a>
   <a>
-    <img src="https://tryhackme.com/img/badges/mrrobot.svg" width="70" height="70" style="margin-right: 0px;"/>
+    <img src="https://tryhackme.com/img/badges/mrrobot.svg" width="70" height="70" title="Mr. Robot";;"/>
   </a>
   <a>
-    <img src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" width="70" height="70" style="margin-right: 0px;"/>
+    <img src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" width="70" height="70" title="Intro to Security Engineer";;"/>
+  </a>
+  <a>
+    <img src="https://tryhackme.com/img/badges/howthewebworks.svg" width="70" height="70" title="How Web Works";;"/>
+  </a>
+  <a>
+    <img src="https://tryhackme.com/img/badges/webbed.svg" width="70" height="70" title="Webbed";;"/>
+  </a>
+  <a>
+    <img src="https://tryhackme.com/img/badges/ice.svg" width="70" height="70" title="Ice";;"/>
+  </a>
+  <a>
+    <img src="https://tryhackme.com/img/badges/blue.svg" width="70" height="70" title="Blue";;"/>
+  </a>
+  <a>
+    <img src="https://tryhackme.com/img/badges/firstfour.svg" width="70" height="70" title="First Four";;"/>
+  </a>
+  <a>
+    <img src="https://tryhackme.com/img/badges/ohsint.svg" width="70" height="70" title="Ohsint";;"/>
   </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
 
 
