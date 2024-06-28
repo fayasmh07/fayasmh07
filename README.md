@@ -59,12 +59,9 @@ A passionate cyber security and penetration testing enthusisast, researching and
 `user@github:/projects# ls -a`
 | Skills                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Assessment                      | <a href="https://github.com/fayasmh07/Vulnerability-Assessments" > Vulnerability Assessments </a> |
+| Vulnerability Scanning                        | <a href="https://github.com/fayasmh07/Vulnerability-Assessments" > Vulnerability Assessments </a> |
 | Implementing Internet Accessible Homer Server | <a href="https://github.com/fayasmh07/Project-SIGMA" > Project SIGMA </a> |
 | CTF Player                                    | Try Hack Me                |
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
 
 
 <!-- achieved badges -->
