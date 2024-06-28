@@ -19,15 +19,15 @@
 </p>
 
 
-`user@github:~# profession.txt`
+`user@github:/# cat profession.txt`
 
 Penetration Tester | Red Hat | Cyber Security Researcher | CPT | WAPT | Bug Bounty Hunter | Computer Science Engineer
 
-`user@github:~# whoami`
+`user@github:/# whoami`
 
 A passionate cyber security and penetration testing enthusisast, researching and adapting various hacking skills. Also pursued my BTech Degree in Computer Science Engineering.
 
-`user@github:~# ls -la`
+`user@github:/home/skills# ls -la`
 - RedTeam Operations
 - Networking & Security
 - Database Management
