@@ -80,6 +80,16 @@ A passionate cyber security and penetration testing enthusisast, researching and
 </p>
 
 `user@github:/tryhacme-badges# ls -la`
-
+<p align="left">
+  <a>
+    <img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="70" height="70" style="margin-right: 0px;"/>
+  </a>
+  <a>
+    <img src="https://tryhackme.com/img/badges/mrrobot.svg" width="70" height="70" style="margin-right: 0px;"/>
+  </a>
+  <a>
+    <img src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" width="70" height="70" style="margin-right: 0px;"/>
+  </a>
+</p>
 
 
