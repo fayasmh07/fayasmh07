@@ -57,11 +57,11 @@ A passionate cyber security and penetration testing enthusisast, researching and
 &nbsp;
 
 `user@github:/projects# ls -a`
-| Skills                                         | Associated Projects         |
-|-----------------------------------------------|----------------------------|
-| Vulnerability Scanning                        | <a href="https://github.com/fayasmh07/Vulnerability-Assessments" > Vulnerability Assessments </a> |
-| Implementing Internet Accessible Homer Server | <a href="https://github.com/fayasmh07/Project-SIGMA" > Project SIGMA </a> |
-| CTF Player                                    | Try Hack Me                |
+| Skills                                        | Associated Projects        | Description                |
+|-----------------------------------------------|----------------------------|----------------------------|
+| OpenVAS - Vulnerability Scanning              | <p align="center"> <a href="https://github.com/fayasmh07/Vulnerability-Assessments" > Vulnerability Assessments </a> </p> | The project involves using OpenVAS to scan and identify security vulnerabilities in a system, providing detailed assessments and recommendations to enhance its security posture. |
+| Public Home Server - Implementation           | <p align="center"> <a href="https://github.com/fayasmh07/Project-SIGMA" > Project SIGMA </a> </p> | Developing an Internet Accessible Home Server with various services such as Remote Desktop, Web Service, File Storage Service etc... |
+|                                               |                            |                            |
 
 
 <!-- achieved badges -->
