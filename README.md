@@ -59,7 +59,7 @@ A passionate cyber security and penetration testing enthusisast, researching and
 `user@github:/projects# ls -a`
 | Skills                                        | Associated Projects        | Description                |
 |-----------------------------------------------|----------------------------|----------------------------|
-| OpenVAS - Vulnerability Scanning              | <p align="center"> <a href="https://github.com/fayasmh07/Vulnerability-Assessments" > Vulnerability Assessments </a> </p> | The project involves using OpenVAS to scan and identify security vulnerabilities in a system, providing detailed assessments and recommendations to enhance its security posture. |
+| OpenVAS - Vulnerability Scanning              | <p align="center"> <a href="https://github.com/fayasmh07/Vulnerability-Assessments" > Vulnerability Assessments </a> </p> | The project involves using OpenVAS to scan and identify security vulnerabilities in a website. |
 | Public Home Server - Implementation           | <p align="center"> <a href="https://github.com/fayasmh07/Project-SIGMA" > Project SIGMA </a> </p> | Developing an Internet Accessible Home Server with various services such as Remote Desktop, Web Service, File Storage Service etc... |
 | Simple Bash Script Program                    | <p align="center"> <a href="https://github.com/fayasmh07/Automatic-Update" > Automatic Update </a> </p> | The Script helps to run 'update','upgrade' & 'autoremove' linux processes by entering "update" commad. |
 
