@@ -92,6 +92,9 @@ A passionate cyber security and penetration testing enthusisast, researching and
     <img src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" width="70" height="70" title="Intro to Security Engineer";;"/>
   </a>
   <a>
+    <img src="https://tryhackme.com/img/badges/owasptop10.svg" width="70" height="70" title="OWASP Top 10";;"/>
+  </a>
+  <a>
     <img src="https://tryhackme.com/img/badges/howthewebworks.svg" width="70" height="70" title="How Web Works";;"/>
   </a>
   <a>
@@ -108,9 +111,6 @@ A passionate cyber security and penetration testing enthusisast, researching and
   </a>
   <a>
     <img src="https://tryhackme.com/img/badges/ohsint.svg" width="70" height="70" title="Ohsint";;"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/owasptop10.svg" width="70" height="70" title="OWASP Top 10";;"/>
   </a>
 </p>
 
