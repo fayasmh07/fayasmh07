@@ -109,9 +109,10 @@ A passionate cyber security and penetration testing enthusisast, researching and
   <a>
     <img src="https://tryhackme.com/img/badges/ohsint.svg" width="70" height="70" title="Ohsint";;"/>
   </a>
+  <a>
+    <img src="https://tryhackme.com/img/badges/owasptop10.svg" width="70" height="70" title="OWASP Top 10";;"/>
+  </a>
 </p>
-
-
 
 
 
