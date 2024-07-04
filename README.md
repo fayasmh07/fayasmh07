@@ -102,6 +102,9 @@ A passionate cyber security and penetration testing enthusisast, researching and
     <img src="https://tryhackme.com/img/badges/ice.svg" width="70" height="70" title="Ice";;"/>
   </a>
   <a>
+    <img src="https://tryhackme.com/img/badges/securityawareness.svg" width="70" height="70" title="Security Awareness";;"/>
+  </a>
+  <a>
     <img src="https://tryhackme.com/img/badges/blue.svg" width="70" height="70" title="Blue";;"/>
   </a>
   <a>
@@ -114,10 +117,6 @@ A passionate cyber security and penetration testing enthusisast, researching and
     <img src="https://tryhackme.com/img/badges/aoc5sidequest2.svg" width="70" height="70" title="SNOW/OFF";;"/>
   </a>
 </p>
-
-
-
-
 
 
 
