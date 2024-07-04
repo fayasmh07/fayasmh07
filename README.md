@@ -11,13 +11,11 @@
     </p>
 </h1>
 
-
 <p align="center">
   <a href="https://tryhackme.com/p/metahustler99" target="_blank" rel="noreferrer">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/metahustler99.png?1" alt="TryHackMe">
+     <img src="https://tryhackme-badges.s3.amazonaws.com/metahustler99.png?3" alt="TryHackMe">
   </a>
 </p>
-
 
 `user@github:/# cat profession.txt`
 
