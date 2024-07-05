@@ -61,7 +61,7 @@ A passionate cyber security and penetration testing enthusisast, researching and
 | Public Home Server - Implementation           | <p align="center"> <a href="https://github.com/fayasmh07/Project-SIGMA" > Project SIGMA </a> </p> | Developing an Internet Accessible Home Server with various services such as Remote Desktop, Web Service, File Storage Service etc... |
 | Simple Bash Script Program                    | <p align="center"> <a href="https://github.com/fayasmh07/Automatic-Update" > Automatic Update </a> </p> | The Script helps to run 'update','upgrade' & 'autoremove' linux processes by entering "update" commad. |
 | Hacking Tools Basic Usage                     | <p align="center"> <a href="https://github.com/fayasmh07/Techno-Hacks-Inetrnship" > TechnoHacks Internship </a> </p> | Contains Videos and Documentation on tools such as Wireshark, Nmap & Maltego recorded as a part of TechnoHacks Internship |
-
+| Home IDS Setup                                | <p align="center"> <a href="https://github.com/fayasmh07/Techno-Hacks-Inetrnship" > Wazuh Server </a> </p> | Setting up WAZUH - Intrusion Detection System for Home Lab |
 
 <!-- achieved badges -->
 
