@@ -11,6 +11,9 @@
     </p>
 </h1>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fayasmh07" alt="fayasmh07" /></a> </p>
+
+
 <p align="center">
   <a href="https://tryhackme.com/p/metahustler99" target="_blank" rel="noreferrer">
      <img src="https://tryhackme-badges.s3.amazonaws.com/metahustler99.png?3" alt="TryHackMe">
@@ -50,7 +53,10 @@ A passionate cyber security and penetration testing enthusisast, researching and
 &nbsp;
 
 `user@github:/profile-status# display status`
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fayasmh07&count_private=true&theme=github-dark-dimmed&border_radius=10" alt="fayasmh07" /></p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fayasmh07&count_private=true&theme=github-dark-dimmed&border_radius=10" alt="fayasmh07" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fayasmh07&count_private=true&theme=github-dark-dimmed&border_radius=10" alt="fayasmh07" />
+</p>
 
 &nbsp;
 
