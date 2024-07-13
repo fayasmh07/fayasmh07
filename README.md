@@ -122,7 +122,7 @@ A passionate cyber security and penetration testing enthusisast, researching and
     <img src="https://tryhackme.com/img/badges/ohsint.svg" width="70" height="70" title="Ohsint";;"/>
   </a>
   <a>
-    <img src="https://tryhackme.com/img/badges/aoc5sidequest2.svg" width="70" height="70" title="SNOW-OFF";;"/>
+    <img src="https://tryhackme.com/img/badges/aoc5sidequest2.svg" width="70" height="70" title="SNOW/OFF";;"/>
   </a>
   <a>
     <img src="https://tryhackme.com/img/badges/threathunting.svg" width="70" height="70" title="Threat Hunter";;"/>
