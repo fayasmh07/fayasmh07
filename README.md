@@ -4,7 +4,7 @@
 
 # My Page Title
 
-![MasterHead](preview.gif){ width=100% max-width=800px style="display: block; margin: 0 auto;" }
+![MasterHead](https://github.com/fayasmh07/fayasmh07.github.io/blob/main/assets/preview.gif)
 
 
 <h1>
