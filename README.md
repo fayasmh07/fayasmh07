@@ -2,7 +2,7 @@
 **fayasmh07/fayasmh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![MasterHead](![image](https://github.com/user-attachments/assets/cc92fef4-de30-4e17-aeb2-1cfa42acb09e))
+![MasterHead](https://github.com/user-attachments/assets/355d4e05-7c57-4d94-b339-8ce3cf40dcee)
 
 ![MasterHead](https://github.com/user-attachments/assets/355d4e05-7c57-4d94-b339-8ce3cf40dcee)
 
