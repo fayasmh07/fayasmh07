@@ -2,11 +2,8 @@
 **fayasmh07/fayasmh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![MasterHead](preview.gif)
+![MasterHead](preview.gif){ width=100% max-width=800px style="display: block; margin: 0 auto;" }
 
-<p align="center">
-  <img src="preview.gif" alt="MasterHead" style="width:100%; max-width:800px;">
-</p>
 
 <h1>
     <p align="center">
