@@ -2,7 +2,14 @@
 **fayasmh07/fayasmh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![MasterHead]()
+# My Video Preview
+
+Here is a preview of my project:
+
+<video width="640" height="360" controls>
+  <source src="preview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h1>
     <p align="center">
