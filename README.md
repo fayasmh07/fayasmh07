@@ -4,7 +4,7 @@
 
 # My Page Title
 
-![MasterHead](https://github.com/fayasmh07/fayasmh07.github.io/blob/main/assets/preview.gif)
+![MasterHead](https://fayasmh07.github.io/assets/preview.gif)
 
 
 <h1>
