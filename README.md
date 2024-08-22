@@ -14,11 +14,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://tryhackme.com/p/metahustler99" target="_blank" rel="noreferrer">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/M3T4HUS7LER.png" alt="TryHackMe">
-</p>
-
 `user@github:/# cat profession.txt`
 
 Penetration Tester | Red Hat | Cyber Security Researcher | CPT | WAPT | Bug Bounty Hunter | Computer Science Engineer
