@@ -4,7 +4,7 @@
 
 # My Page Title
 
-![MasterHead](https://fayasmh07.github.io/assets/preview.gif)
+![MasterHead](Screen-Recording-2024-08-22T10_47_28.341Z-ezgif.com-video-to-gif-converter.gif)
 
 
 <h1>
