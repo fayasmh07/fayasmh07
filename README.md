@@ -33,13 +33,16 @@ A passionate cyber security and penetration testing enthusisast, researching and
 
 <h3>
     <p align="center">
-         This is my Website
+         CHECK OUT MY WEBSITE
     </p>
 </h3>
 
-[![preview](https://github.com/fayasmh07/fayasmh07.github.io/blob/main/assets/preview.gif)](https://fayasmh07.github.io)
-    
-    
+<p align="center">
+  <a href="https://fayasmh07.github.io">
+    <img src="https://github.com/fayasmh07/fayasmh07.github.io/blob/main/assets/preview.gif" alt="preview">
+  </a>
+</p>
+
 
 `user@github:/languages-&-environments# ls`
 
