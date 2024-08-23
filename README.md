@@ -32,9 +32,10 @@ A passionate cyber security and penetration testing enthusisast, researching and
 <h2>
     <p align="center">
          This is my Website
-         ![preview](https://github.com/user-attachments/assets/518e2082-2f56-43c0-937a-8e148d20b712)
     </p>
 </h2>
+
+![preview](https://github.com/fayasmh07/fayasmh07.github.io/blob/main/assets/preview.gif)
     
     
 
