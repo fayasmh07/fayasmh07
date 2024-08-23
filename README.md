@@ -13,6 +13,19 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fayasmh07" alt="fayasmh07"/></a>
 </p>
 
+***
+
+<h3>
+    <p align="center">
+         CHECK OUT MY WEBSITE
+    </p>
+</h3>
+
+<p align="center">
+  <a href="https://fayasmh07.github.io">
+    <img src="https://github.com/fayasmh07/fayasmh07.github.io/blob/main/assets/preview.gif" alt="preview">
+  </a>
+</p>
 
 `user@github:/# cat profession.txt`
 
@@ -28,21 +41,6 @@ A passionate cyber security and penetration testing enthusisast, researching and
 - Database Management
 - Scripting
 - VAPT
-
-***
-
-<h3>
-    <p align="center">
-         CHECK OUT MY WEBSITE
-    </p>
-</h3>
-
-<p align="center">
-  <a href="https://fayasmh07.github.io">
-    <img src="https://github.com/fayasmh07/fayasmh07.github.io/blob/main/assets/preview.gif" alt="preview">
-  </a>
-</p>
-
 
 `user@github:/languages-&-environments# ls`
 
