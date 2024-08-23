@@ -29,13 +29,13 @@ A passionate cyber security and penetration testing enthusisast, researching and
 - Scripting
 - VAPT
 
-<h2>
+<h3>
     <p align="center">
          This is my Website
     </p>
-</h2>
+</h3>
 
-![preview](https://github.com/fayasmh07/fayasmh07.github.io/blob/main/assets/preview.gif)
+[![preview](https://github.com/fayasmh07/fayasmh07.github.io/blob/main/assets/preview.gif)](https://fayasmh07.github.io)
     
     
 
