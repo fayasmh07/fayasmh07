@@ -91,6 +91,10 @@ A passionate cyber security and penetration testing enthusisast, researching and
   <a href="https://www.credly.com/badges/920fb13a-a1b1-414f-8d10-348ac1cbdee8/public_url" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="linux" width="60" height="60" style="margin-right: 20px title="Google Cyber Security Professional";"/>
   </a>
+  </a>
+  <a href="https://www.linkedin.com/posts/fayasmh07_new-achievement-ceh-v12-ec-council-activity-7235950711077806080-FkM2?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noreferrer">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQF0cCQlECDiew/feedshare-shrink_800/feedshare-shrink_800/0/1725185086284?e=1727913600&v=beta&t=iXcsYjPxvKpR4U32LSw9eW8OUFlGfVqeueiM9uJj_rk" alt="linux" width="60" height="60" style="margin-right: 20px title="Google Cyber Security Professional";"/>
+  </a>
 </p>
 
 
