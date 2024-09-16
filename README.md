@@ -27,7 +27,7 @@
 
 `user@github:/# cat profession.txt`
 
-Penetration Tester | Red Hat | Cyber Security Researcher | CPT | WAPT | Bug Bounty Hunter | Computer Science Engineer
+Certified Ethical Hacker v12 | Certified Penetration Tester | Certified AppSec Practitioner | Red Team | Cyber Security Researcher | CPT | WAPT | Bug Bounty Hunter | Computer Science Engineer
 
 `user@github:/# whoami`
 
