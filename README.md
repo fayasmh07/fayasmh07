@@ -92,54 +92,8 @@ A passionate cyber security and penetration testing enthusisast, researching and
     <img src="https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="linux" width="60" height="60" style="margin-right: 20px title="Google Cyber Security Professional";"/>
   </a>
   </a>
-  <a href="https://www.linkedin.com/posts/fayasmh07_new-achievement-ceh-v12-ec-council-activity-7235950711077806080-FkM2?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noreferrer">
-    <img src="https://media.licdn.com/dms/image/v2/D5622AQF0cCQlECDiew/feedshare-shrink_800/feedshare-shrink_800/0/1725185086284?e=1727913600&v=beta&t=iXcsYjPxvKpR4U32LSw9eW8OUFlGfVqeueiM9uJj_rk" alt="linux" width="60" height="60" style="margin-right: 20px title="Google Cyber Security Professional";"/>
-  </a>
 </p>
 
-
-`user@github:/tryhacme-badges# ls -la`
-<p align="left">
-  <a>
-    <img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="70" height="70" title="Intro to Offensive Security";"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/mrrobot.svg" width="70" height="70" title="Mr. Robot";;"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" width="70" height="70" title="Intro to Security Engineer";;"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/owasptop10.svg" width="70" height="70" title="OWASP Top 10";;"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/howthewebworks.svg" width="70" height="70" title="How Web Works";;"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/webbed.svg" width="70" height="70" title="Webbed";;"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/ice.svg" width="70" height="70" title="Ice";;"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/securityawareness.svg" width="70" height="70" title="Security Awareness";;"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/blue.svg" width="70" height="70" title="Blue";;"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/firstfour.svg" width="70" height="70" title="First Four";;"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/ohsint.svg" width="70" height="70" title="Ohsint";;"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/aoc5sidequest2.svg" width="70" height="70" title="SNOW/OFF";;"/>
-  </a>
-  <a>
-    <img src="https://tryhackme.com/img/badges/threathunting.svg" width="70" height="70" title="Threat Hunter";;"/>
-  </a>
-</p>
 
 
 
