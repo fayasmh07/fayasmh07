@@ -75,24 +75,6 @@ A passionate cyber security and penetration testing enthusisast, researching and
 | TCP Dump - Network Packet Capturing           | <p align="center"> <a href="https://github.com/fayasmh07/Analysis-Projects/blob/main/TCP-Dump" > TCP Dump </a> </p> | Basic Network Packet Capturing & Analysis using TCP Dump as a part of Googlr Cyber Security Professional Certificate. |
 | Suricata - Exploring network traffics & rules | <p align="center"> <a href="https://github.com/fayasmh07/Analysis-Projects/blob/main/Suricata" > Suricata </a> </p> | Basic Network Packet Analysis and exploring custom rules using Suricata as a part of Googlr Cyber Security Professional Certificate. |
 
-<!-- achieved badges -->
-
-`user@github:/badges# ls -la`
-<p align="left">
-  <a href="https://www.credly.com/badges/7000ce34-b108-4508-b74d-9ddf84f06c1e/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="linux" width="60" height="60" style="margin-right: 20px title="Cyber Security Essentials";"/>
-  </a>
-  <a href="https://www.credly.com/badges/550e5f13-e3d7-4498-8e11-d258ebb199a5/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="python" width="60" height="60" style="margin-right: 20px title="Introduction to Cyber Security";"/>
-  </a>
-  <a href="https://www.credly.com/badges/f0d627ab-2ac2-4aa6-85af-36b477907fba/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="linux" width="60" height="60" style="margin-right: 20px title="ISC2 Candidate";"/>
-  </a>
-  <a href="https://www.credly.com/badges/920fb13a-a1b1-414f-8d10-348ac1cbdee8/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="linux" width="60" height="60" style="margin-right: 20px title="Google Cyber Security Professional";"/>
-  </a>
-  </a>
-</p>
 
 
 
