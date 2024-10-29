@@ -44,15 +44,15 @@ A passionate cyber security and penetration testing enthusisast, researching and
 
 <!-- known languages -->
 
-[![Known Programming Languages](https://skillicons.dev/icons?i=bash,linux,mysql,py,cpp,html,js)](https://skillicons.dev)
+[![Known Programming Languages](https://skillicons.dev/icons?i=bash,linux,mysql,py,html,js)](https://skillicons.dev)
 
 <!-- known tools -->
 
-[![Known Tools](https://skillicons.dev/icons?i=androidstudio,figma,grafana,notion,pycharm,vim,vscode,git,docker,arduino)](https://skillicons.dev)
+[![Known Tools](https://skillicons.dev/icons?i=pycharm,vim,vscode,git)](https://skillicons.dev)
 
 <!-- known operating systems & environnments -->
 
-[![Known Programming Languages](https://skillicons.dev/icons?i=kali,ubuntu,debian,windows,mint,raspberrypi,arch)](https://skillicons.dev)
+[![Known Programming Languages](https://skillicons.dev/icons?i=kali,ubuntu,debian,windows,raspberrypi)](https://skillicons.dev)
 
 &nbsp;
 
