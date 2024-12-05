@@ -74,7 +74,9 @@ A passionate cyber security and penetration testing enthusisast, researching and
 | Nessus - Malware Analysis in Local Machine    | <p align="center"> <a href="https://github.com/fayasmh07/Vulnerability-Assessments" > Vulnerability Assessments </a> </p> | Malware Analysis in Unix based local machine using Nessus Vulnerability Scanner (Nessus Essentials). |
 | TCP Dump - Network Packet Capturing           | <p align="center"> <a href="https://github.com/fayasmh07/Analysis-Projects/blob/main/TCP-Dump" > TCP Dump </a> </p> | Basic Network Packet Capturing & Analysis using TCP Dump as a part of Googlr Cyber Security Professional Certificate. |
 | Suricata - Exploring network traffics & rules | <p align="center"> <a href="https://github.com/fayasmh07/Analysis-Projects/blob/main/Suricata" > Suricata </a> </p> | Basic Network Packet Analysis and exploring custom rules using Suricata as a part of Googlr Cyber Security Professional Certificate. |
-| File Integrity Checking Tool using Tool       | <p align="center"> <a href="https://github.com/fayasmh07/File-Integrity-Checker-Tool" > File Integrity Checker Tool </a> </p> | This tool monitors file integrity on Linux, alerting users to unauthorized changes with repeat notifications until files are restored, and logs all monitoring actions. |
+| File Integrity Checking Tool                  | <p align="center"> <a href="https://github.com/fayasmh07/File-Integrity-Checker-Tool" > File Integrity Checker Tool </a> </p> | This tool monitors file integrity on Linux, alerting users to unauthorized changes with repeat notifications until files are restored, and logs all monitoring actions. |
+| Way Finder - Bug Bounty Tool                  | <p align="center"> <a href="https://github.com/fayasmh07/way-finder" > Way Finder </a> </p> | Way Finder is a Bash-based utility designed for bug bounty hunters to automate URL collection and filter them for vulnerabilities like XSS, SQLi, LFI, and more. It streamlines reconnaissance by providing customizable keyword searches, dynamic filtering, and organized output files. |
+
 
 
 
