@@ -76,8 +76,7 @@ A passionate cyber security and penetration testing enthusisast, researching and
 | Suricata, Network Traffic Monitoring                                                | <p align="center"> <a href="https://github.com/fayasmh07/Analysis-Projects/blob/main/Suricata" > Suricata </a> </p> | Basic Network Packet Analysis and exploring custom rules using Suricata as a part of Googlr Cyber Security Professional Certificate. |
 | Prompt Engineering, Python                                                          | <p align="center"> <a href="https://github.com/fayasmh07/File-Integrity-Checker-Tool" > File Integrity Checker Tool </a> </p> | This tool monitors file integrity on Linux, alerting users to unauthorized changes with repeat notifications until files are restored, and logs all monitoring actions. |
 | Bash Scripting, Linux, Bug Bounty                                                   | <p align="center"> <a href="https://github.com/fayasmh07/way-finder" > Way Finder </a> </p> | Way Finder is a Bash-based utility designed for bug bounty hunters to automate URL collection and filter them for vulnerabilities like XSS, SQLi, LFI, and more. It streamlines reconnaissance by providing customizable keyword searches, dynamic filtering, and organized output files. |
-| OSINT                                                                               | <p align="center"> <a href="https://github.com/fayasmh07/Projects/tree/main/OSINT/SBT-SKYFALL
-" > SKYFALL-SBT </a> </p> | Did OSINT operations which uses Google searching, Social Media Analysis etc.|
+| OSINT                                                                               | <p align="center"> <a href="https://github.com/fayasmh07/Projects/tree/main/OSINT/SBT-SKYFALL" > SKYFALL-SBT </a> </p> | Did OSINT operations which uses Google searching, Social Media Analysis etc.|
 
 
 
